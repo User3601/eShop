@@ -10,6 +10,7 @@ def eShop():
 
 @app.route("/login")
 def login():
+    
     return render_template('login_page.html')
 
 @app.route("/logout")
