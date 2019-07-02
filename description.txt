@@ -1,4 +1,4 @@
-Kurzbeschrieb eShop:
+﻿Kurzbeschrieb eShop:
 Wir sind chrutti.ch
 Wir verkaufen jegliche Kräuter, darunter auch solche die nicht in der Migros zu finden sind.
 Hoffentlich gefällt ihnen unser Angebot.
@@ -15,5 +15,6 @@ Datenbankschema:
 paint.exe file
 
 Arbeitsteilung:
-Elia:
-Nicolai:
+Elia:		html
+		
+Nicolai:	databases
