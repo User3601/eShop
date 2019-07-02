@@ -1,6 +1,21 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
+from flask import Flask, url_for, render_template
+app = Flask(__name__)
+
+
+@app.route("/")
+def eShop():
+    return render_template('eShop.html')
+
+@app.route("/login")
+def login():
+    return render_template('login_page.html')
+
+@app.route("/logout")
+def logout():
+
+
+
+
 
 if __name__ == "__main__":
-    print("Hello World")
+    app.run()
