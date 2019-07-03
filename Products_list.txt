@@ -1,0 +1,43 @@
+#product1
+Oregano 
+name
+ULTRA Fresh Pure Oregano - 101% Bio!
+
+description 
+Simply the best - Limited offer: now only  10 cents per Gramm! Perfect for all occasions.
+
+price
+8.95 
+
+picture_ref
+http://www.turkishbazaar.ca/wp-content/uploads/2018/02/Kekik-turkish-oregano-where-to-buy-toronto-canada-united-states-montreal-ottawa-quebec-oakville-edmonton-calgary-miami-manhattan-sanfrancisco-pittsburgh.jpg
+
+#product2
+
+name
+ORIGINAL Extra-Fresh Organic Oregano  
+
+description 
+Give yourself a treat and eat some beautiful pure Basilic. Available in form of 10-Grams Baggies. Feel free to take as much as you need! 
+
+price 
+9.95
+
+picture_ref
+https://www.pastaweb.de/wp-content/uploads/2016/02/basilikum.jpg
+
+#product 3 
+
+name 
+ORGANIC Tasty Rosmary
+
+description 
+Extra Pure Rosmary: an explosion of flavours and emotions. Truly a magnificent plant
+
+price
+12.95
+ 
+picture_ref
+https://www.truebenecker.de/wp-content/uploads/2016/08/Bio-Rosmarin-kaufen.jpg
+
+#product 4 
